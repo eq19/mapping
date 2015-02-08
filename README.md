@@ -25,8 +25,8 @@ Hyip Rating-**Style#7**: Link to [*The List*](http://tophyips.info/monitor/hyip-
 Hyip Rating-**Style#8**: Link to [*The List*](http://tophyips.info/monitor/hyip-rating/style-8) & [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-8/best-1) of **US$ 1,000-100K**  
 
 
-The configuration above is also introduced here:
-Youtube Channel: https://www.youtube.com/user/TophyipsInfoNetwork/videos
-Dedicated Section in Russian MMG forum: http://www.rusmmg.ru/forumdisplay.php?f=360
+The configuration above is also introduced here:  
+Youtube Channel: https://www.youtube.com/user/TophyipsInfoNetwork/videos  
+Dedicated Section in Russian MMG forum: http://www.rusmmg.ru/forumdisplay.php?f=360  
 
   [1]: https://github.com/hyip/info
