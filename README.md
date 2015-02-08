@@ -5,7 +5,7 @@ In this folder is residing all files that is made within Kohana Frame Work, othe
 
 Basic information can be found on the following:
 
-[**HYIP Script**][1]  
+[**HYIP Info**][1]  
 <https://github.com/hyip/info>
   
 Using the Kohana request module we develop a hyip script to provide most relevant information about HYIP, High Yield Investment Programs Monitoring and Rating Services.
