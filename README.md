@@ -29,7 +29,7 @@ Hyip Rating-**Style#8**: [*Link to The List*](http://tophyips.info/monitor/hyip-
 
 The configuration above is also introduced here:  
 Youtube Channel: https://www.youtube.com/user/TophyipsInfoNetwork/videos  
-Talkgold Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004 
+Talkgold Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
 Dedicated Section in Russian MMG Forum: http://www.rusmmg.ru/forumdisplay.php?f=360  
 
   [1]: https://github.com/hyip/info
