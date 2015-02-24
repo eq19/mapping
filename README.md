@@ -1,4 +1,4 @@
-# monitor
+# hyip monitor
 This project builds an integration to run all monitoring code of Hyip Project.   
 [Kohana](https://kohanaframework.org/) version 3.0 is being chosen as the php framework for this module.
 
