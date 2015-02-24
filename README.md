@@ -1,12 +1,13 @@
 # Hyip Monitor & Rating Script
 This project builds an integration to run all monitoring code of Hyip Project.   
+The script will provide most relevant information about HYIP Monitoring and Rating Services.  
 
 Project chapter are divided in to the following section:
 
 [**HYIP Monitor**][1]  
 this section  
 
-[**HYIP Ratingr**][1]  
+[**HYIP Rating**][1]  
 <https://github.com/hyip/rating>  
 
 [**HYIP Script**][1]  
