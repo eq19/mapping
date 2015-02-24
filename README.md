@@ -1,15 +1,28 @@
-# hyip monitor
+# Hyip Monitor & Rating Script
 This project builds an integration to run all monitoring code of Hyip Project.   
-[Kohana](https://kohanaframework.org/) version 3.0 is being chosen as the php framework for this module.
 
-In this folder is residing all files that is made within Kohana Frame Work.  
-Other files that is not touched will be the same as original sources.
+Project chapter are divided in to the following section:
 
-Basic information can be found on the following:
+[**HYIP Monitor**][1]  
+this section  
+
+[**HYIP Ratingr**][1]  
+<https://github.com/hyip/rating>  
+
+[**HYIP Script**][1]  
+<https://github.com/hyip/script>  
+
+Basic information & Background can be found on the following:  
 
 [**HYIP Info**][1]  
-<https://github.com/hyip/info>
+<https://github.com/hyip/info>  
   
+In this section and deeper will discuss of monitoring code that runnung as a module.    
+[Kohana](https://kohanaframework.org/) version 3.0 is being chosen as the php framework for this module.  
+
+Please noted that file residing contain only all files that is modified or made within Kohana Frame Work  
+Other files that is not touched will be the same as original sources. 
+
 Using the Kohana request module we develop a hyip script to provide most relevant information about HYIP, High Yield Investment Programs Monitoring and Rating Services.
 
 [**Find the current scoring result**](http://tophyips.info/monitor/hyip-list)  
