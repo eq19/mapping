@@ -41,8 +41,9 @@ Hyip Rating-**Style#7**: [*Link to The List*](http://tophyips.info/monitor/hyip-
 Hyip Rating-**Style#8**: [*Link to The List*](http://tophyips.info/monitor/hyip-rating/style-8), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-8/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-1/best-1) of **US$ 1,000-100K**  
 
 
-The configuration above is also introduced here:  
-Youtube Channel: https://www.youtube.com/user/TophyipsInfoNetwork/videos  
+The configuration above is also introduced here:
+Google Code: https://hyip.googlecode.com/
+Youtube: https://www.youtube.com/user/TophyipsInfoNetwork/videos  
 Talkgold Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
 Dedicated Section in Russian MMG Forum: http://www.rusmmg.ru/showthread.php?t=54976  
 
