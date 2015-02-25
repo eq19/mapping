@@ -42,7 +42,7 @@ Hyip Rating-**Style#8**: [*Link to The List*](http://tophyips.info/monitor/hyip-
 
 
 The configuration above is also introduced here:
-Google Code: https://hyip.googlecode.com/
+Google Code: https://hyip.googlecode.com/  
 Youtube: https://www.youtube.com/user/TophyipsInfoNetwork/videos  
 Talkgold Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
 Dedicated Section in Russian MMG Forum: http://www.rusmmg.ru/showthread.php?t=54976  
