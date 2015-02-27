@@ -47,4 +47,10 @@ Youtube Channel : https://www.youtube.com/user/TophyipsInfoNetwork/videos
 Talkgold on Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
 Dedicated Section in Russian MMG Forum: http://www.rusmmg.ru/showthread.php?t=54976  
 
+##Update
+
+We are on testing our website to open the world for HYIP Referral Link Submission. Please don't hesitate to take a look and give it a try, for more detail see here.
+
+
+
   [1]: https://github.com/hyip/info
