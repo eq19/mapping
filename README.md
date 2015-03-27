@@ -1,4 +1,4 @@
-# Hyip Monitor & Rating Script
+# Hyip Monitoring & Rating Script
 This project builds an integration to run all monitoring code of Hyip Project.   
 The script will provide most relevant information about HYIP Monitoring and Rating Services.  
 
