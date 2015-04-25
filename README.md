@@ -51,6 +51,13 @@ Dedicated Section in Russian MMG Forum: http://www.rusmmg.ru/showthread.php?t=54
 
 We are on testing our website to open the world for HYIP Referral Link Submission. Please don't hesitate to take a look and give it a try, for more detail see ['*here*'](https://github.com/hyips/hyips.github.io).
 
+# rating
+This project builds an integration script to run rating code of Hyip Project.
+
+See [here](https://github.com/tophyips/tophyips.github.io)
+***
+|[:house: Home](https://github.com/hyip)|[Next :arrow_forward:](https://github.com/hyiprating/hyiprating.github.io)|
+|:----|----:|
 
 
   [1]: https://github.com/hyip/info
