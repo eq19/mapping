@@ -54,9 +54,8 @@ We are on testing our website to open the world for HYIP Referral Link Submissio
 # rating
 This project builds an integration script to run rating code of Hyip Project.
 
-See [here](https://github.com/tophyips/tophyips.github.io)
 ***
-|[:house: Home](https://github.com/hyip)|[Next :arrow_forward:](https://github.com/hyiprating/hyiprating.github.io)|
+|[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyiprating/hyiprating.github.io) [:arrow_forward:](https://github.com/hyiprating/hyiprating.github.io)|
 |:----|----:|
 
 
