@@ -26,8 +26,9 @@ Other files that is not touched will be the same as original sources.
 
 Using the Kohana request module we develop a hyip script to provide most relevant information about HYIP, High Yield Investment Programs Monitoring and Rating Services.
 
-[**Find the current scoring result**](http://tophyips.info/monitor/hyip-list)  
-<http://tophyips.info/>  
+**HYIP Score Analysis v1.2**   
+<a href="http://score.tophyips.info/" title="HYIP Score Analysis v1.2">http://score.tophyips.info/</a>    
+A simple table analysis of scoring script to do hyip calculator & sites rating. Help you find legit hyips & monitor your investment against scam. This is a basic core and background philosophy of the project in general.
  
 [**HYIP Monitor & HYIP Rating Services**][1]  
 Moreover we show you in more details in styles & its best one:    
