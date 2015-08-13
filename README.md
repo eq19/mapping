@@ -28,6 +28,7 @@ Using the Kohana request module we develop a hyip script to provide most relevan
 
 Here is our released project so far:
 
+[![Gem Version](https://img.shields.io/gem/v/guard.svg?style=flat)](https://rubygems.org/gems/guard)
 <a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
 **HYIP Score Analysis v1.2**</a>  
 <http://all.hyip.world/>
