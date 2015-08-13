@@ -28,7 +28,7 @@ Using the Kohana request module we develop a hyip script to provide most relevan
 
 Here is our released project so far:
 
-[![Version](https://hyip-world.appspot.com/UA-51930984-2/sheets/paying?gif=v1.2)](http://all.hyip.world/)  
+[![Version](https://hyip-world.appspot.com/UA-51930984-2/github/monitor?gif=v1.2)](http://all.hyip.world/)  
 <a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
 **HYIP Score Analysis v1.2**</a>  
 <http://all.hyip.world/>
