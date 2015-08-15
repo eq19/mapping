@@ -51,7 +51,7 @@ The configuration above is also introduced here:
 Hyip Script on Bitbucket: https://bitbucket.org/hyips  
 Youtube Channel : https://www.youtube.com/user/TophyipsInfoNetwork/videos  
 Talkgold on Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
-Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.php?t=58758 (Dedicated)
+Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.php?t=58758
 
 ##Update
 
