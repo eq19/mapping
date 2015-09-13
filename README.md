@@ -55,7 +55,7 @@ Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.
 
 ##Update
 
-We are on testing our website to open the world for HYIP Referral Link Submission. Please don't hesitate to take a look and give it a try, for more detail see ['*here*'](https://github.com/hyips/hyips.github.io).
+We are on testing our website to open the world for HYIP Referral Link Submission. Please don't hesitate to take a look and give it a try, for more detail see ['*here*'](http://hyip.world/).
 
 # rating
 This project builds an integration script to run rating code of Hyip Project.
