@@ -26,7 +26,7 @@ Other files that is not touched will be the same as original sources.
 
 Using the Kohana request module we develop a hyip script to provide most relevant information about HYIP, High Yield Investment Programs Monitoring and Rating Services.
 
-Here is our released project so far:
+[Here](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) is our page for the first released of this project so far:
 
 [![Version](https://hyip-world.appspot.com/UA-51930984-2/github/monitor?gif=v1.2)](http://all.hyip.world/)  
 <a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
