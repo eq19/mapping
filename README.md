@@ -1,3 +1,6 @@
+|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=30)](https://github.com/hyip) |This repository is courtesy of [The HYIP Project](https://github.com/hyipworld/hyipworld.github.io). Find all sections on our [Project Map](https://github.com/hyip/info/wiki/maps).|
+|:----|----:|
+
 # Hyip Monitoring & Rating Script
 This project builds an integration to run all monitoring code of Hyip Project.   
 The script will provide most relevant information about HYIP Monitoring and Rating Services.  
