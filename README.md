@@ -57,7 +57,7 @@ Talkgold on Forum Group: http://www.talkgold.com/forum/group.php?discussionid=10
 Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.php?t=58758
 
 # Application
-This project builds an integration script to run rating code of Hyip Project. The following diagram shows the different components and their interactions across environments. Read more detail and the tutorial [*here*](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_ecstutorial.html).
+This project builds an integration script to run rating code of Hyip Project. The following diagram shows the different components and their interactions across environments. Read more detail and the tutorial [*here*](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_ecstutorial.html).<br />
 [![Application](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/aeb-architecture_worker.png)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.concepts.architecture.html?icmpid=docs_elasticbeanstalk_console#concepts.concepts.architecture.worker) 
 
 ##Update
