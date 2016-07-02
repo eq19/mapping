@@ -56,12 +56,13 @@ Youtube Channel : https://www.youtube.com/user/TophyipsInfoNetwork/videos
 Talkgold on Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
 Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.php?t=58758
 
+# Application
+This project builds an integration script to run rating code of Hyip Project. The following diagram shows the different components and their interactions across environments.
+[![Application](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/aeb-architecture_worker.png)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.concepts.architecture.html?icmpid=docs_elasticbeanstalk_console#concepts.concepts.architecture.worker) 
+
 ##Update
 
 We are on testing our website to open the world for HYIP Referral Link Submission. Please don't hesitate to take a look and give it a try, for more detail see ['*here*'](http://hyip.world/).
-
-# Rating
-This project builds an integration script to run rating code of Hyip Project.
 
 ***
 |[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyiprating/hyiprating.github.io) [:arrow_forward:](https://github.com/hyiprating/hyiprating.github.io)|
