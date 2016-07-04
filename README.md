@@ -57,9 +57,9 @@ Talkgold on Forum Group: http://www.talkgold.com/forum/group.php?discussionid=10
 Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.php?t=58758
 
 # Application
-This project builds an integration script to run rating code of Hyip Project. We have choose Docker as the central of the integration. Using Docker makes it trivial to run an application on any computer. 
+This project builds an integration script to run rating code of Hyip Project. We have choose [Docker](docker.com) as the central of the integration. Using Docker and its [Library](https://github.com/docker-library/docs) makes it trivial to run an application on any computer. 
 
-For example when you want to install Wordpress. You don’t need to install PHP, MySQL or Apache. Life just got easier. Speaking of MySQL, you have two options when using the official WordPress Docker image. You can either use Docker’s container linking feature with a [MySQL container](https://registry.hub.docker.com/_/mysql/). Or you can link to an external database. The documentation on both is in [the Docker repository](https://github.com/docker-library/docs/tree/master/wordpress). 
+For example when you want to install Wordpress. You don’t need to install PHP, MySQL or Apache. Life just got easier. Speaking of MySQL, you have two options when using the official WordPress Docker image. You can either use Docker’s container linking feature with a [MySQL container](https://registry.hub.docker.com/_/mysql/). Or you can link to an external database. The documentation on both is in the [Docker Repository](https://github.com/docker-library/docs/tree/master/wordpress). 
 
 The following diagram shows the different components and their interactions across environments of Docker implementation on Amazon Platform. Read more detail and the tutorial [*here*](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_ecstutorial.html).<br /><br />
 [![Application](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/aeb-architecture_worker.png)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.concepts.architecture.html?icmpid=docs_elasticbeanstalk_console#concepts.concepts.architecture.worker) 
