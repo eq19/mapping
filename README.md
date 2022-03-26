@@ -1,72 +1,75 @@
-|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyip/info "Repository") is courtesy of [The HYIP Project](https://github.com/hyip/monitor "High Yard Investment Program"). Find all of them on [The Project Map](https://github.com/hyip/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/spider.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main) |
+|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
 
-# Hyip Monitoring Script
-This project builds an integration to run all monitoring code of Hyip Project.   
-The script will provide most relevant information about HYIP Monitoring and Rating Services.  
+## 6th Step: Q(29, 19)
 
-Project chapter are divided in to the following section:
+This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
-[**HYIP Monitor**][1]  
-this section  
-
-[**HYIP Rating**][1]  
-<https://github.com/hyip/rating>  
-
-[**HYIP Script**][1]  
-<https://github.com/hyip/script>  
-
-Basic information & Background can be found on the following:  
-
-[**HYIP Info**][1]  
-<https://github.com/hyip/info>  
-  
-In this section and deeper will discuss of monitoring code that runnung as a module.    
-[Kohana](https://kohanaframework.org/) version 3.0 is being chosen as the php framework for this module.  
-
-Please noted that file residing contain only all files that is modified or made within Kohana Frame Work  
-Other files that is not touched will be the same as original sources. 
-
-Using the Kohana request module we develop a hyip script to provide most relevant information about HYIP, High Yield Investment Programs Monitoring and Rating Services.
-
-[Here](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) is our page for the first released of this project so far:
-
-[![Version](https://hyip-world.appspot.com/UA-51930984-2/github/monitor?gif=v1.2)](http://all.hyip.world/)  
-<a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
-**HYIP Score Analysis v1.2**</a>  
-<http://all.hyip.world/>
-
-A simple table analysis of scoring script to do hyip calculator & sites rating. Help you find legit hyips & monitor your investment against scam. This is a basic core and background philosophy of the project in general.
+```
+ $True Prime Pairs:
+ (5,7), (11,13), (17,19)
  
-[**HYIP Monitor & HYIP Rating Services**][1]  
-Moreover we show you in more details in styles & its best one:    
-Hyip Rating-**Style#1**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-1), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-1/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-1) of **US$ 1.00-4.99**  
-Hyip Rating-**Style#2**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-2), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-2/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-2) of **US$ 5.00-9.99**  
-Hyip Rating-**Style#3**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-3), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-3/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-3) of **US$ 10.00-19.99**  
-Hyip Rating-**Style#4**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-4), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-4/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-4) of **US$ 10.00 in BTC**  
-Hyip Rating-**Style#5**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-5), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-5/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-5) of **US$ 20-49.99**  
-Hyip Rating-**Style#6**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-6), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-6/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-6) of **US$ 50-99.& 99**  
-Hyip Rating-**Style#7**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-7), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-7/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-7) of **US$ 100-999.99**  
-Hyip Rating-**Style#8**: [*Top 10 Rated HYIPs*](http://tophyips.info/monitor/hyip-rating/style-8), [*The Best Hyip*](http://tophyips.info/monitor/hyip-rating/style-8/best-1) & [*The Latest Scam*](http://tophyips.info/monitor/hyip-scam/style-8) of **US$ 1,000-100K**  
+ layer|  i  |   f
+ -----+-----+---------
+      |  1  | 5
+   1  +-----+
+      |  2  | 7
+ -----+-----+---  } 36 » 6®
+      |  3  | 11
+   2  +-----+
+      |  4  | 13
+ -----+-----+---------
+      |  5  | 17
+   3  +-----+     } 36 » 6®
+      |  6  | 19
+ -----+-----+---------
+ 
+ Scheme:
+ 168 + 329 + 289 = 786
+ d(786) = d(7+8+6) = d(21) = d(3)
+ 
+ Modulus:
+  30  «   60  »  90
+  |       |       |
+ 3:29 « 1:6:8 » 28:9
+ └── 3 + └── 6  + └── 9 = 18
+ 
+ |------------ 36' --------------|----------------------------36' ----------------------------|
+ |     19'     |        17'      |      13'     |      11'     |       7'      |       5'     |
+ +---+----+----+---+----+----+---+---+----+-----+----+----+----+----+----+-----+----+----+----+
+ | 1 |  2 |  3 | 4 |  5 |  6 | 7 | 8 |  9 |  10 | 11 | 12 | 13 | 14 | 15 |  16 | 17 | 18 | 19 |
+ +---+----+----+---+----+----+---+---+----+-----+----+----+----+----+----+-----+----+----+----+
+ | 2 | 60 | 40 | 1 | 30 | 30 | 5 | 1 | 30 | 200 |  8 | 40 | 50 |  1 | 30 | 200 |  8 | 10 | 40 |
+ +---+----+----+---+----+----+---+---+----+-----+----+----+----+----+----+-----+----+----+----+
+ | ° |ΔΔΔΔ  ΦΦ | •   ΔΔ   ΔΔ   ¤ | •   ΔΔ   ΦΦΦ    Φ   ΦΦ  ¤¤¤¤|  •   ΔΔ   ΦΦΦ    Φ   ¤¤   ΦΦ |  
+ 
+ |---- 102  ---|-----  66  ------|-------- 329 = 7 x 47 -------|- 289 = (8+9)² = 2 & (2³+9²) -|
+ |--2x3x(8+9)--|--- 2x3x(2+9) ---|---- (1+2) & (2x9)+(2+9) ----|------ 2 & (8x9)+(8+9) -------|
+ |-------- 168 = π(1000) --------|------ 1229 = π(10000) ------|------ π(89²) = 1000 ---------|
+ |-------- 168 = π(618xΦ) -------|----- 618 = 1000/Φ = 1000x1000/1618 = 10^6/(2x8)&(2x9) -----|
+ 
+ Note:
+ • = 1000 = 10³ (Triple Ten)
+ ¤ = π(1000) = 168 (Basic Primes)
+ Φ = 1000/618 = 1,618 (Golden Ratio) 
+ Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
+ 
+ Faktors:
+ 168 = 12x14 = 8x21 = 7x24 = 6x28 = 4x42 = 3x56 = 2x84
+ 618 = 6x103 = 6x(100+3) = 3x206 = 3x(200+6) = 2x309 = 2x(300+9)
+ 1+6+8 = π(1x6x8) = π(1x48) = π(2x24) = π(3x16)= π(4x12) = π(6x8)
+ 
+ Permutations:
+ 168 = 102 + 66 = 2x3x((8+9)+(2+9)) = π(Φ(289+329)) = π(Φ((8+9)²+(1+2)&29))
+ 168 + 618 = 168 + 329 + 289 = (7x24) + (7x47) + (8+9)² = (7x71) + (17x17)
+```
 
+So [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser shown below: 
 
-The configuration above is also introduced here:  
-Hyip Script on Bitbucket: https://bitbucket.org/hyips  
-Youtube Channel : https://www.youtube.com/user/TophyipsInfoNetwork/videos  
-Talkgold on Forum Group: http://www.talkgold.com/forum/group.php?discussionid=1004  
-Russian Forum: http://mmgp.ru/blog.php?b=2468 & http://www.rusmmg.ru/showthread.php?t=58758
+<img width=100% src=https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png>
 
-# Application
-This project builds an integration script to run rating code of Hyip Project. We have choose [Docker](docker.com) as the central of the integration, we are going to develop it under [our own profile](https://hub.docker.com/r/tophyips/hyip/). 
+So it will form back to the begining stage with different form of input but its process will be the same algorithm.
 
-Using Docker and its [Library](https://github.com/docker-library/docs) makes it trivial to run an application on any computer. For example when you want to install Wordpress. You don’t need to install PHP, MySQL or Apache. Life just got easier. Speaking of MySQL, you have two options when using the official WordPress Docker image. You can either use Docker’s container linking feature with a [MySQL container](https://registry.hub.docker.com/_/mysql/). Or you can link to an external database. The documentation on both is in the [Docker Repository](https://github.com/docker-library/docs/tree/master/wordpress). 
-
-Docker has exist as a feature on many Web Platforms. The following diagram shows the different components and their interactions across environments of Docker implementation on Amazon Platform. Read more detail and the tutorial [*here*](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_ecstutorial.html).<br /><br />
-[![Application](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/aeb-architecture_worker.png)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.concepts.architecture.html?icmpid=docs_elasticbeanstalk_console#concepts.concepts.architecture.worker) 
-
-##Update
-
-We are on testing our website to open the world for HYIP Referral Link Submission. Please don't hesitate to take a look and give it a try, for more detail see [*here*](http://hyip.world/).
 
 ***
 |[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyiprating/hyiprating.github.io) [:arrow_forward:](https://github.com/hyiprating/hyiprating.github.io)|
