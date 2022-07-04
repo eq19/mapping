@@ -1,4 +1,4 @@
-|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
+|[![The ₠Quantum Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/eq19) |This [repo](https://github.com/eq19.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The ₠Quantum Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
 
 ## 6th Step: Q(29, 19)
@@ -72,8 +72,8 @@ So it will form back to the begining stage with different form of input but its 
 
 
 ***
-|[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyiprating/hyiprating.github.io) [:arrow_forward:](https://github.com/hyiprating/hyiprating.github.io)|
+|[:house:](https://github.com/eq19) [Home](https://github.com/eq19)|[Next](https://github.com/eq19rating/rating.github.io) [:arrow_forward:](https://github.com/eq19rating/rating.github.io)|
 |:----|----:|
 
 
-  [1]: https://github.com/hyip/info
+  [1]: https://github.com/eq19/info
