@@ -5,18 +5,18 @@
 
 input_types:
 - text
-- email
 - date
+- email
 - radio
-- submit
 - number
+- submit
 - textarea
 - checkbox
 
 form_engines:
-- cloudcannon
 - formspree
 - formbucket
+- cloudcannon
 
 debug:
   dist: false
@@ -77,8 +77,8 @@ excerpt_separator: <!--end_excerpt-->
 
 plugins:
   - jemoji
-  - jekyll-feed
   - jekyll-gist
+  - jekyll-feed
   - jekyll-avatar
   - jekyll-sitemap
   - jekyll-mentions
@@ -87,8 +87,8 @@ plugins:
 
 whitelist:
   - jemoji
-  - jekyll-feed
   - jekyll-gist
+  - jekyll-feed
   - jekyll-avatar
   - jekyll-sitemap
   - jekyll-mentions
@@ -108,6 +108,12 @@ defaults:
       type: "feeds"
     values:
       layout: "feeds"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
   -
     scope:
       path: ""
