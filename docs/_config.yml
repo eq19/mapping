@@ -203,7 +203,6 @@ flow_labels:
 # https://stackoverflow.com/a/30828197/4058484
 
 # baseurl: ""
-path: /group/1
 basedir: _feeds
 username: chetabahana
 organization: marketleader
