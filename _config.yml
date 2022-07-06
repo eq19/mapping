@@ -1,11 +1,12 @@
-debug:
-  dist: false
-  compress: true
-  shortcodes: true
+exclude:
+  - config
+  - Capfile
+  - README.wiki
 
-google:
-  gtag: GTM-PGWT4RS
-  adsense: ca-pub-3677197599836940
+topic: Monitoring
+name: ₠Quantum Project
+url: http://eq19.github.io
 
-base_tag: 6th-step-q29-19
-remote_theme: FeedTheme/jekyll-rtd-theme
+path: /maps/script
+remote_theme: eQ19/parser
+permalink: /:categories/:title/
