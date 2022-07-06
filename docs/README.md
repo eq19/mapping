@@ -76,4 +76,4 @@ So it will form back to the begining stage with different form of input but its 
 |:----|----:|
 
 
-  [1]: https://github.com/eq19/info
+  [1]: https://github.com/eq19
