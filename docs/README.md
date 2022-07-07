@@ -68,7 +68,7 @@ So [the next target](https://github.com/chetabahana/chetabahana.github.io/discus
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png>
 
-So it will form back to the begining stage with different form of input but its process will be the same algorithm.
+So it will form back to the begining stage with different form of input but its process will be back to the same algorithm.
 
 
 ***
