@@ -10,7 +10,7 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
 [![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://www.eq19.com/theme)
 
 ```tip
-By Our Project this **Sheme** runs as _[remote theme](https://www.eq19.com/theme)_ where the **Symbols** are:
+By Our Project this **Sheme** runs as a _[remote theme](https://www.eq19.com/theme)_ where the **Symbols** are:
 * The _**M+F**_ symbol will stand as: [Project Maps (M)](https://www.eq19.com/maps) + [Project Feed (F)](https://www.eq19.com/feed) while
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 ```
