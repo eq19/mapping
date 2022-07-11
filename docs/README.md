@@ -38,7 +38,7 @@ By having digital root of (five) 5 and two (2), the above seven (7) steps of 168
 
 This algorithm is used to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
-## [Tabulate Prime by The Power of 168](https://www.eq19.com/lexer)
+## [Tabulate Prime by π(1000)=168](https://www.eq19.com/lexer)
 
 Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
 
@@ -232,7 +232,7 @@ This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 
 
 So the further process would always continously become the same algorithm. 
 
-## [Tabulate Prime by The Power of 618](https://www.eq19.com/parser)
+## [Tabulate Prime by 1000/Φ=618](https://www.eq19.com/parser)
 
 Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
