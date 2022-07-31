@@ -64,9 +64,10 @@ exclude:
 encoding: utf-8
 livereload: true
 limit_posts: 1000
-collections_dir: maps
 timezone: Asia/Jakarta
 
+data_dir: docs/_data
+collections_dir: maps
 remote_theme: eQ19/parser
 excerpt_separator: <!--end_excerpt-->
 
