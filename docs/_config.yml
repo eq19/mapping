@@ -160,6 +160,7 @@ feed:
 # Kramdown Options
 # https://kramdown.gettalong.org/options.html
 # https://jekyllrb.com/docs/configuration/markdown/
+# https://kimkyunghwan21.github.io/test/rich-results.html
 
 highlighter: rouge
 markdown: kramdown
